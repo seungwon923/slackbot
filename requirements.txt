@@ -1,0 +1,4 @@
+slack_sdk
+python-dotenv
+boto3
+slack_bolt
